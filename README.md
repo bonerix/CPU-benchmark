@@ -1,4 +1,4 @@
-# CPU-test
+# CPU-benchmark
 This is a simple C# code to test the performance of your CPU.
 
 
